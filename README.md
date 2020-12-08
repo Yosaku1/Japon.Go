@@ -1,18 +1,12 @@
-<!DOCTYPE html>
-<html lang="ja" >
-
-
 <head>
 
 </head>
-  
 
-<body>
+
+
+
+<body style="background-color:#f5deb3">
   
-  <div class="column" style="background-color:#f5deb3">
-  
-  </div>    
 
 
 </body>
-</html>
